@@ -1,5 +1,5 @@
 // mathModule.js
-import { toUpperCase } from "./stringModule";
+import { toUpperCase } from "./stringModule.js";
 
 // addition function
 export function add(a, b) {
